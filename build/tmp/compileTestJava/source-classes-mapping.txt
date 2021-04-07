@@ -1,0 +1,11 @@
+org/training/examples/automation/common/Generic.java
+ org.training.examples.automation.common.Generic
+org/training/examples/automation/pages/HomePage.java
+ org.training.examples.automation.pages.HomePage
+ org.training.examples.automation.pages.HomePage$HomePageObjects
+org/training/examples/automation/base/TestBase.java
+ org.training.examples.automation.base.TestBase
+org/training/examples/automation/constants/GlobalConstants.java
+ org.training.examples.automation.constants.GlobalConstants
+org/training/examples/automation/tests/ValidHomePageTests.java
+ org.training.examples.automation.tests.ValidHomePageTests

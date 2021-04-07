@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Suite" duration-ms="29064" started-at="2021-03-02T16:53:41 IST" finished-at="2021-03-02T16:54:10 IST">
+    <groups>
+    </groups>
+    <test name="Smoke Test Run" duration-ms="29064" started-at="2021-03-02T16:53:41 IST" finished-at="2021-03-02T16:54:10 IST">
+      <class name="org.training.examples.automation.tests.ValidHomePageTests">
+        <test-method status="PASS" signature="initSetup(java.lang.String)[pri:0, instance:org.training.examples.automation.tests.ValidHomePageTests@355f816a]" name="initSetup" is-config="true" duration-ms="19661" started-at="2021-03-02T16:53:41 IST" finished-at="2021-03-02T16:54:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initSetup -->
+        <test-method status="PASS" signature="init()[pri:0, instance:org.training.examples.automation.tests.ValidHomePageTests@355f816a]" name="init" is-config="true" duration-ms="69" started-at="2021-03-02T16:54:01 IST" finished-at="2021-03-02T16:54:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="changeClick()[pri:0, instance:org.training.examples.automation.tests.ValidHomePageTests@355f816a]" name="changeClick" duration-ms="8135" started-at="2021-03-02T16:54:01 IST" finished-at="2021-03-02T16:54:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeClick -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.training.examples.automation.tests.ValidHomePageTests@355f816a]" name="tearDown" is-config="true" duration-ms="1123" started-at="2021-03-02T16:54:09 IST" finished-at="2021-03-02T16:54:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.training.examples.automation.tests.ValidHomePageTests -->
+    </test> <!-- Smoke Test Run -->
+  </suite> <!-- Test Suite -->
+</testng-results>
